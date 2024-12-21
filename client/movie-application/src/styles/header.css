@@ -1,0 +1,19 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.logo img{
+    height: 60px;
+    width: 104px;
+}
+.navlink-container{
+    display: flex;
+    gap: 54px;
+}
+.navlink{
+    text-decoration: none;
+    color: white;
+}
